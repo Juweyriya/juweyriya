@@ -1,13 +1,13 @@
 ### Hi, i'm Juweyriya! 💁🏾‍♀️
 
-I am a Software Developer 
+I'm a Software Developer 
 who recently graduated from [School of Code](https://schoolofcode.co.uk/)! & i am currently looking for opportunities to to further develop my skills and experiment with more frameworks and languages!
 
 
 
 Prior the bootcamp i had just graduated from University with a degree in forensic Investigations!
 
-- 📫 How to reach me: www.linkedin.com/in/juweyriya-abdikadir
+- 📫 How to reach me:[LinkedIn:Juweyriya-Abdikadir](www.linkedin.com/in/juweyriya-abdikadir)
 
 <!--
 
