@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+** Watch the snake eating my contributions
+![snake gif](https://github.com/juweyriya/juweyriya/blob/output/github-contribution-grid-snake.gif)
+
