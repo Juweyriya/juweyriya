@@ -1,10 +1,9 @@
 ### Hi, i'm Juweyriya! 💁🏾‍♀️
 
 I recently graduated from [School of Code](https://schoolofcode.co.uk/) as a Software Developer!
-During the 16 weeks of the bootcamp  I gained a solid technical foundation and had the opportunity to work on fullstack projects.
-Throughout the course i worked in an agile manner and i had multiple chances to colloborate in pairs and teams of 4. 
 
-I'm currently on the lookout for opportunities to hone my abilities and explore new frameworks and languages!
+The School of Code is an intensive 16 week bootcamp, covering full stack JavaScript technologies, Agile Methodologies, and collaborative and creative problem solving, to deliver real practice. During the 16 weeks the bootcamp i learned the  fundamentals of programming, and i was educated  on the industry best practises and standards, and shown how to operate as part of a high-performing Agile tech team. I'm currently on the lookout for opportunities to hone my abilities and explore new frameworks and languages!
+
 
 
 #### About me 
@@ -15,9 +14,7 @@ I'm currently on the lookout for opportunities to hone my abilities and explore 
 
 
 
-
-
-📫 The best way to contact me:[LinkedIn:Juweyriya-Abdikadir](www.linkedin.com/in/juweyriya-abdikadir)
+📫 The best way to contact me is on LinkedIn:[Juweyriya-Abdikadir](www.linkedin.com/in/juweyriya-abdikadir)
 
 
 
