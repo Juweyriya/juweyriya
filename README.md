@@ -29,7 +29,14 @@ The School of Code is an intensive 16 week bootcamp, covering full stack JavaScr
 <br/>
 <br/>
 
-📫 The best way to contact me is on LinkedIn:[Juweyriya-Abdikadir](www.linkedin.com/in/juweyriya-abdikadir)
+
+### Connect with me:
+
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [LinkedIn](https://www.linkedin.com/in/juweyriya-abdikadir/)
+
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> [Twitter](https://twitter.com/jwyryax)
+
+<br />
 
 
 
